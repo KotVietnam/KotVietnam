@@ -80,7 +80,10 @@ status: Online ✅
 
 ---
 
-systemctl status KotVietnam.service
+### 🧮 System Process
+
+```bash
+> systemctl status KotVietnam.service
 Loaded: active (running)
 Main PID: 404 (ai-core)
 Tasks: 42 (infinity)
@@ -88,6 +91,7 @@ Memory: 64GB distributed
 CPU: Ryzen 7 5700X
 CGroup: /system.slice/kotvietnam.service
 └─ Running processes: [DevOps, Automation, AI, ClusterOps, LostWeyn]
+
 
 ---
 
