@@ -13,12 +13,13 @@
 
 ### 🧩 Terminal Info
 
+```bash
 whoami
 user: KotVietnam
 location: Almaty, Kazakhstan
 mission: Automate. Or die trying.
 status: Online ✅
-
+```
 
 ---
 
@@ -90,9 +91,9 @@ Tasks: 42 (infinity)
 Memory: 64GB distributed
 CPU: Ryzen 7 5700X
 CGroup: /system.slice/kotvietnam.service
-└─ Running processes: [DevOps, Automation, AI, ClusterOps, LostWeyn]
+└─ Running processes: [DevOps, Automation, AI, ClusterOps]
 
-
+```
 ---
 
 <p align="center">
