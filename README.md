@@ -48,7 +48,7 @@
 
 <!-- Right side preview (replace the GIF link with your own) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazV5aWs4cG1xN2Q3cWhmcXh3bW9xMmJnN3Zrd3RxaDRkNjU3a29tMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XcQ8lSDy8Q9C4/giphy.gif" width="100%" alt="preview"/>
+  <img src=hack-hacking.gif" width="100%" alt="preview"/>
 </p>
 
 </td>
