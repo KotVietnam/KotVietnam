@@ -48,7 +48,7 @@
 
 <!-- Right side preview (replace the GIF link with your own) -->
 <p align="center">
-  <img src="https://github.com/KotVietnam/KotVietnam/blob/main/hack-hacking.gif" width="100%" alt="preview"/>
+  <img src="https://github.com/KotVietnam/KotVietnam/blob/main/cry-about-it.gif" width="100%" alt="preview"/>
 </p>
 
 </td>
