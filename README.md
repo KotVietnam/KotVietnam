@@ -1,46 +1,90 @@
-<h1 align="left">Привет, я <b>KotVietnam</b> 👋</h1>
-<p align="left">
-  <img src="./banner.svg" alt="banner" width="100%"/>
+<!-- updated: INIT -->
+<h1 align="center">
+  <img src="https://github.com/KotVietnam/KotVietnam/raw/main/images/Hi.gif" height="32" />
+  Привет, я <a href="https://lostweyn.aspc.kz" target="_blank">KotVietnam</a> 🐾
+</h1>
+<h3 align="center">System Administrator & DevOps Engineer from Kazakhstan 🇰🇿</h3>
+
+<p align="center">
+  <img src="./banner.svg" width="100%" alt="banner"/>
 </p>
 
-<p align="left">
-  <img align="right" width="150" src="./avatar.png" alt="avatar" />
-  Я — системный админ, работаю с Debian, Proxmox, Ceph, Kubernetes и всякой инфраструктурной дрянью. Люблю автоматизировать всё, что шевелится.
+---
+
+### 🧠 Обо мне
+
+<p align="center">
+Я занимаюсь инфраструктурой, автоматизацией и контейнерами.  
+Работаю с Debian, Proxmox, Kubernetes, Ceph и Docker.  
+Люблю, когда всё летает, и ненавижу, когда что-то не документировано 😼.
 </p>
 
-- 🔭 Сейчас: работаю над проектами LostWeyn / NovaCloud / Perplexica  
-- 🌐 Сайт: [lostweyn.aspc.kz](https://lostweyn.aspc.kz)  
-- 📍 Almaty / Kazakhstan  
-- 💬 Пиши: `raspberry@kotvietnam.kz` (или в телегу)  
-- ⚡ Стиль: тёмный + неон (фиолет/оранж)
+<p align="center">
+  <a href="mailto:raspberry@kotvietnam.kz"><img src="https://img.shields.io/badge/email-raspberry@kotvietnam.kz-%23ff7a59?style=flat-square&logo=gmail"></a>
+  <a href="https://lostweyn.aspc.kz"><img src="https://img.shields.io/badge/Website-lostweyn.aspc.kz-%236c2bd9?style=flat-square&logo=firefox-browser"></a>
+  <a href="https://github.com/KotVietnam"><img src="https://komarev.com/ghpvc/?username=KotVietnam&color=6c2bd9&style=flat-square"></a>
+</p>
 
 ---
 
-## 🔧 Быстрые ссылки
-- 🔹 [LostWeynSite](https://github.com/KotVietnam/LostWeynSite) — фронт
-- 🔹 [Launcher](https://github.com/KotVietnam/Launcher) — мод/лаунчер
-- 🔹 [mrazota.kz](https://github.com/KotVietnam/mrazota.kz)
+### ⚙️ Технологии
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,debian,bash,docker,kubernetes,ansible,nginx,react,nodejs,postgres,git,github,html,js,py" />
+</p>
 
 ---
 
-## Статистика
-<!-- START:stats -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KotVietnam&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KotVietnam&layout=compact&theme=dark&hide_border=true)
-<!-- END:stats -->
+### 📊 Статистика
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KotVietnam&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KotVietnam&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KotVietnam&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## Now
-> Если хочешь — могу подцепить Spotify / Last.FM или динамические виджеты, показывающие, что играет сейчас.
+### 🏆 Трофеи и ачивки
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KotVietnam&theme=tokyonight&row=1&no-bg=true&no-frame=true" />
+</p>
 
 ---
 
-### Как это работает
-1. Создай репозиторий с EXACT именем `KotVietnam` (т.е. `username/username`).  
-2. Положи сюда `README.md`, `banner.svg`, `avatar.png` (или `avatar.svg`).  
-3. Опция: включи workflow чтобы README обновлялся автоматически (ниже).
+### 🐍 Анимация активности
+
+<p align="center">
+  <img src="https://github.com/KotVietnam/KotVietnam/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
 
 ---
 
-Если хочешь — сделаю вариацию README в миним/макс вариантах (чтобы на телефоне красиво выглядело). Хочешь тёмную или сразу добавить анимированную SVG-строку сверху?
+### 🪄 Забавы ради
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quotes Card"/>
+  </a>
+</p>
+
+---
+
+### 📰 Последние посты с Хабра
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KotVietnam&theme=tokyonight" alt="summary"/>
+</p>
+
+---
+
+<h3 align="center">⚡ DevOps. Automation. Chaos. Repeat.</h3>
