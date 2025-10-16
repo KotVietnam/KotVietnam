@@ -70,6 +70,8 @@
 ---
 
 <p>
-  <a href="mailto:raspberry@kotvietnam.kz"><img src="https://img.shields.io/badge/email-raspberry@kotvietnam.kz-555?style=flat&logo=gmail" /></a>
+  <a href="mailto:kotvietnam@internet.ru"><img src="https://img.shields.io/badge/email-kotvietnam@internet.ru-555?style=flat&logo=gmail" /></a>
+  <a href="mailto:kotvietnam@mail.ru"><img src="https://img.shields.io/badge/email-kotvietnam@mail.ru-555?style=flat&logo=gmail" /></a>
+  <a href="mailto:greetzet@gmail.com"><img src="https://img.shields.io/badge/email-greetzet@gmail.com-555?style=flat&logo=gmail" /></a>
   <img src="https://komarev.com/ghpvc/?username=KotVietnam&label=PROFILE%20VIEWS&color=6c2bd9&style=flat" />
 </p>
