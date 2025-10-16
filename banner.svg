@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1">
+      <stop offset="0" stop-color="#6c2bd9"/>
+      <stop offset="0.5" stop-color="#9b3cff"/>
+      <stop offset="1" stop-color="#ff7a59"/>
+    </linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="18" /></filter>
+  </defs>
+
+  <rect width="1280" height="640" fill="#0b0b0d"/>
+  <g opacity="0.12">
+    <circle cx="220" cy="160" r="220" fill="url(#g1)" filter="url(#blur)"/>
+    <circle cx="980" cy="480" r="300" fill="#0b5f90" filter="url(#blur)"/>
+    <rect x="200" y="320" width="880" height="80" rx="10" fill="#000" opacity="0.15"/>
+  </g>
+
+  <!-- wireframe icosaeder-like -->
+  <g transform="translate(120,40)" stroke="url(#g1)" stroke-width="1.5" fill="none" opacity="0.85">
+    <path d="M880 120 L760 80 L720 200 L860 220 Z M480 280 L600 160 L720 200 L600 260 Z" stroke-linejoin="round"/>
+    <!-- декоративные точки -->
+    <g fill="url(#g1)" opacity="0.9">
+      <circle cx="320" cy="120" r="3"/>
+      <circle cx="540" cy="80" r="3"/>
+      <circle cx="980" cy="300" r="3"/>
+    </g>
+  </g>
+
+  <!-- Neon title -->
+  <g transform="translate(48,420)">
+    <text x="0" y="0" font-family="Inter, Roboto, sans-serif" font-size="54" fill="white" opacity="0.95">KotVietnam</text>
+    <text x="0" y="52" font-family="Inter, Roboto, sans-serif" font-size="20" fill="url(#g1)" opacity="0.95">Systems · DevOps · LostWeyn</text>
+  </g>
+</svg>
